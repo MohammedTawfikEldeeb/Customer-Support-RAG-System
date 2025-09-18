@@ -1,0 +1,650 @@
+[
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced Americano",
+      "item_name_ar": "أمريكانو مثلج",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 82, "Large": 92 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced Latte",
+      "item_name_ar": "لاتيه مثلج",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 98, "Large": 108 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced Cappuccino",
+      "item_name_ar": "كابتشينو مثلج",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 98, "Large": 108 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced Spanish Latte",
+      "item_name_ar": "سبانش لاتيه مثلج",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 115, "Large": 125 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced Caramel Macchiato",
+      "item_name_ar": "كراميل ماكياتو مثلج",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 112, "Large": 122 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Iced White Mocha",
+      "item_name_ar": "وايت موكا مثلجة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 112, "Large": 122 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Double Shot Iced White Mocha",
+      "item_name_ar": "دبل شوت وايت موكا مثلجة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Sea Salt Vanilla Latte",
+      "item_name_ar": "سي سولت فانيلا لاتيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 120, "Large": 130 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Sea Salt Vanilla Oat Latte",
+      "item_name_ar": "سي سولت فانيلا لاتيه بالشوفان",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 135, "Large": 145 }
+    },
+    {
+      "category": "Iced Coffee",
+      "item_name": "Espresso Freddo",
+      "item_name_ar": "اسبريسو فريدو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 93, "Large": 103 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Espresso",
+      "item_name_ar": "اسبريسو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Single": 59, "Double": 69 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Espresso Macchiato",
+      "item_name_ar": "اسبريسو ماكياتو",
+      "description": "Espresso topped with foamed milk",
+      "description_ar": "اسبريسو يعلوه رغوة الحليب",
+      "sizes": { "Single": 64, "Double": 74 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Turkish Coffee",
+      "item_name_ar": "قهوة تركي",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Single": 61, "Double": 66 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Cortado",
+      "item_name_ar": "كورتادو",
+      "description": "Espresso topped with equal amount of milk",
+      "description_ar": "اسبريسو مع كمية متساوية من الحليب",
+      "sizes": { "Single": 75, "Double": 85 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Flat White",
+      "item_name_ar": "فلات وايت",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Single": 88, "Double": 98 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Americano",
+      "item_name_ar": "أمريكانو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 92, "Large": 92 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Cappuccino",
+      "item_name_ar": "كابتشينو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 98, "Large": 108 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Latte",
+      "item_name_ar": "لاتيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 98, "Large": 108 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Spanish Latte",
+      "item_name_ar": "سبانش لاتيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 115, "Large": 125 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Mocha Coffee",
+      "item_name_ar": "موكا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 109, "Large": 119 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Café Miel",
+      "item_name_ar": "كافيه مييل",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 110, "Large": 120 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Caramel Macchiato",
+      "item_name_ar": "كراميل ماكياتو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 112, "Large": 122 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "White Mocha",
+      "item_name_ar": "وايت موكا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 112, "Large": 122 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Double Shot White Mocha",
+      "item_name_ar": "دبل شوت وايت موكا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Hot Drinks",
+      "item_name": "Classic Hot Chocolate",
+      "item_name_ar": "هوت شوكليت كلاسيك",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 107, "Large": 117 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Latte Frappé",
+      "item_name_ar": "لاتيه فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 112, "Large": 122 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Mocha Frappé",
+      "item_name_ar": "موكا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 118, "Large": 128 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "White Mocha Frappé",
+      "item_name_ar": "وايت موكا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Toffee Latte Frappé",
+      "item_name_ar": "توفي لاتيه فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 125, "Large": 135 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Chocolate Cookies Mocha Frappé",
+      "item_name_ar": "شوكليت كوكيز موكا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 125, "Large": 135 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Lotus Latte Frappé",
+      "item_name_ar": "لوتس لاتيه فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 134, "Large": 144 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Vanilla Frappé",
+      "item_name_ar": "فانيلا فرابيه",
+      "description": "Non-Coffee",
+      "description_ar": "بدون قهوة",
+      "sizes": { "Regular": 118, "Large": 128 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Lotus Vanilla Frappé",
+      "item_name_ar": "لوتس فانيلا فرابيه",
+      "description": "Non-Coffee",
+      "description_ar": "بدون قهوة",
+      "sizes": { "Regular": 134, "Large": 144 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Strawberry Vanilla Frappé",
+      "item_name_ar": "فراولة فانيلا فرابيه",
+      "description": "Non-Coffee",
+      "description_ar": "بدون قهوة",
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Frappés",
+      "item_name": "Sea Salt Vanilla Frappé",
+      "item_name_ar": "سي سولت فانيلا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 120, "Large": 130 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Iced Matcha",
+      "item_name_ar": "ماتشا مثلجة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 118, "Large": 128 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Iced Coconut Honey Matcha",
+      "item_name_ar": "ماتشا مثلجة بجوز الهند والعسل",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Matcha Frappe",
+      "item_name_ar": "ماتشا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 121, "Large": 131 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Mango Matcha Frappe",
+      "item_name_ar": "مانجو ماتشا فرابيه",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 123, "Large": 133 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Sea Salt Vanilla Matcha",
+      "item_name_ar": "سي سولت فانيلا ماتشا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 125, "Large": 135 }
+    },
+    {
+      "category": "Matcha",
+      "item_name": "Hot Matcha",
+      "item_name_ar": "ماتشا ساخنة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Regular": 118, "Large": 128 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Tropical Smoothie",
+      "item_name_ar": "سموثي استوائي",
+      "description": "Mango, Strawberry and Banana",
+      "description_ar": "مانجو، فراولة وموز",
+      "sizes": { "Default": 118 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Mango Smoothie",
+      "item_name_ar": "سموثي مانجو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 118 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Lemon Mint Smoothie",
+      "item_name_ar": "سموثي ليمون بالنعناع",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 111 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Shakes",
+      "item_name_ar": "ميلك شيك",
+      "description": "Maltesers / Oreo / Snickers",
+      "description_ar": "مالتيزرز / أوريو / سنيكرز",
+      "sizes": { "Default": 121 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Mango Juice",
+      "item_name_ar": "عصير مانجو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 75 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Juice",
+      "item_name_ar": "عصير",
+      "description": "Orange / Strawberry / Guava",
+      "description_ar": "برتقال / فراولة / جوافة",
+      "sizes": { "Default": 70 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Pink Lemonade",
+      "item_name_ar": "بينك ليمونيد",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 105 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Iced Tea",
+      "item_name_ar": "شاي مثلج",
+      "description": "Peach / Raspberry",
+      "description_ar": "خوخ / توت",
+      "sizes": { "Default": 105 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Redbull Mojito",
+      "item_name_ar": "ريد بول موهيتو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 105 }
+    },
+    {
+      "category": "Refreshers & Shakes",
+      "item_name": "Strawberry Redbull Mojito",
+      "item_name_ar": "ريد بول موهيتو بالفراولة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 116 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Butter Croissant",
+      "item_name_ar": "كرواسون زبدة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 65 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Cheese Croissant",
+      "item_name_ar": "كرواسون جبنة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 75 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Turkey & Cheese Croissant",
+      "item_name_ar": "كرواسون جبنة وتركي",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 85 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Nutella Croissant",
+      "item_name_ar": "كرواسون نوتيلا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 85 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Cookie",
+      "item_name_ar": "كوكيز",
+      "description": "Chocolate / Chocolate Lava / Lotus / Nutella",
+      "description_ar": "شوكولاتة / شوكولاتة لافا / لوتس / نوتيلا",
+      "sizes": { "Default": 75 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Doughnuts",
+      "item_name_ar": "دونتس",
+      "description": "Chocolate / Sugar Glazed",
+      "description_ar": "شوكولاتة / سكر",
+      "sizes": { "Default": 55 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Cinnamon Roll",
+      "item_name_ar": "سينابون رول",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 55 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Chocolate Chip Brownie",
+      "item_name_ar": "براوني برقائق الشوكولاتة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 70 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Mini Brownies Cup",
+      "item_name_ar": "كوب ميني براونيز",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 75 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Mini Ginger Cookies Cup",
+      "item_name_ar": "كوب ميني كوكيز بالزنجبيل",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 65 }
+    },
+    {
+      "category": "Bakery & Snacks",
+      "item_name": "Muffin",
+      "item_name_ar": "مافن",
+      "description": "Vanilla / Blueberry / Chocolate",
+      "description_ar": "فانيلا / توت أزرق / شوكولاتة",
+      "sizes": { "Default": 70 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Dark Chocolate Fudge",
+      "item_name_ar": "فادج الشوكولاتة الداكنة",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 115 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Cheesecake",
+      "item_name_ar": "تشيز كيك",
+      "description": "with toppings",
+      "description_ar": "مع إضافات",
+      "sizes": { "Default": 115 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Carrot Cake",
+      "item_name_ar": "كيكة الجزر",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 115 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Nutella Molten Cake",
+      "item_name_ar": "مولتن كيك نوتيلا",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 140 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Tiramisu",
+      "item_name_ar": "تيراميسو",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 115 }
+    },
+    {
+      "category": "Desserts",
+      "item_name": "Salted Caramel Brownie",
+      "item_name_ar": "براوني بالكراميل المملح",
+      "description": null,
+      "description_ar": null,
+      "sizes": { "Default": 100 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Turkey & Emmental",
+      "item_name_ar": "ساندوتش تركي وإيمنتال",
+      "description": "Turkey breast with emmental cheese and Dijonaise sauce on toast",
+      "description_ar": "صدر ديك رومي مع جبنة إيمنتال وصوص ديجونيز على خبز التوست",
+      "sizes": { "Default": 155 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Roast Beef & Cheddar",
+      "item_name_ar": "ساندوتش روست بيف وشيدر",
+      "description": "Roast beef with cheddar cheese and Dijonaise sauce on toast",
+      "description_ar": "روست بيف مع جبنة شيدر وصوص ديجونيز على خبز التوست",
+      "sizes": { "Default": 155 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Tuna Baguette",
+      "item_name_ar": "ساندوتش تونة باجيت",
+      "description": "Tuna, bell peppers and spring onions in bloom baguette",
+      "description_ar": "تونة، فلفل ألوان وبصل أخضر في خبز الباجيت",
+      "sizes": { "Default": 145 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Dijon Beef Brisket",
+      "item_name_ar": "ساندوتش بيف بريسكت بالديجون",
+      "description": "Beef brisket paired with Dijon in panini bread",
+      "description_ar": "بيف بريسكت مع صوص ديجون في خبز البانيني",
+      "sizes": { "Default": 150 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Sriracha Chicken",
+      "item_name_ar": "ساندوتش دجاج سريراتشا",
+      "description": "Chicken strips in a sriracha mayo sauce with cheddar cheese in panini bread",
+      "description_ar": "شرائح دجاج بصوص سريراتشا مايو مع جبنة شيدر في خبز البانيني",
+      "sizes": { "Default": 155 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Halloumi & Sun-dried Tomatoes",
+      "item_name_ar": "ساندوتش حلوم وطماطم مجففة",
+      "description": "Grilled halloumi with sun-dried tomatoes, rocca, and pesto sauce in panini bread",
+      "description_ar": "جبنة حلوم مشوية مع طماطم مجففة، جرجير، وصوص بيستو في خبز البانيني",
+      "sizes": { "Default": 150 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Roast Turkey Delight",
+      "item_name_ar": "ساندوتش روست تركي ديلايت",
+      "description": "Paprika-seasoned roast turkey, tender chicken, cheddar cheese, and creamy mayo make for a truly delightful experience",
+      "description_ar": "ديك رومي مشوي متبل بالبابريكا، دجاج طري، جبنة شيدر، ومايونيز كريمي لتجربة ممتعة",
+      "sizes": { "Default": 135 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Roast Ranch Melt",
+      "item_name_ar": "ساندوتش روست رانش ميلت",
+      "description": "Crispy multigrain toast, tender chicken, and ranch sauce combine to elevate your mouth experience.",
+      "description_ar": "توست مقرمش متعدد الحبوب، دجاج طري، وصوص رانش يجتمعون لتعزيز تجربتك.",
+      "sizes": { "Default": 165 }
+    },
+    {
+      "category": "Sandwiches",
+      "item_name": "Roast Turkey Royale",
+      "item_name_ar": "ساندوتش روست تركي رويال",
+      "description": "Paprika-seasoned roast turkey, tender chicken, crispy beef bacon, and a smoky mayo on multigrain toast make for a royal taste.",
+      "description_ar": "ديك رومي مشوي متبل بالبابريكا، دجاج طري، بيف بيكون مقرمش، ومايونيز مدخن على توست متعدد الحبوب لمذاق ملكي.",
+      "sizes": { "Default": 195 }
+    },
+    {
+      "category": "Salads",
+      "item_name": "Chicken Caesar",
+      "item_name_ar": "سلطة سيزر بالدجاج",
+      "description": "Grilled chicken with fresh lettuce and crunchy croutons, topped with caesar dressing.",
+      "description_ar": "دجاج مشوي مع خس طازج وقطع خبز محمصة، مغطاة بصوص السيزر.",
+      "sizes": { "Default": 155 }
+    },
+    {
+      "category": "Salads",
+      "item_name": "Chicken Quinoa",
+      "item_name_ar": "سلطة كينوا بالدجاج",
+      "description": "Grilled chicken, multi-coloured Quinoa, fresh vegetables and cherry tomatoes, topped with honey mustard dressing.",
+      "description_ar": "دجاج مشوي، كينوا ملونة، خضروات طازجة وطماطم شيري، مغطاة بصوص هني ماسترد.",
+      "sizes": { "Default": 155 }
+    },
+    {
+      "category": "Salads",
+      "item_name": "Greek Salad",
+      "item_name_ar": "سلطة يونانية",
+      "description": "Go greek with our Greek Salad filled with lettuce, cherry tomatoes, cucumbers, bell peppers, black olives, tangy feta cheese, red onions, and our delicious vinaigrette dressing.",
+      "description_ar": "استمتع بسلطتنا اليونانية المليئة بالخس، طماطم شيري، خيار، فلفل ألوان، زيتون أسود، جبنة فيتا، بصل أحمر، وصوص فينيجريت اللذيذ.",
+      "sizes": { "Default": 130 }
+    },
+    {
+      "category": "Salads",
+      "item_name": "Beans & Pasta",
+      "item_name_ar": "سلطة الفاصوليا والمكرونة",
+      "description": "Pasta salad with beans, corn, chickpeas topped with vinaigrette Dressing.",
+      "description_ar": "سلطة مكرونة مع فاصوليا، ذرة، وحمص مغطاة بصوص فينيجريت.",
+      "sizes": { "Default": 135 }
+    }
+  ]

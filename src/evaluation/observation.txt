@@ -1,0 +1,15 @@
+--------- k_retrival == 3 -----------
+
+Overall Performance Final Average Scores
+faithfulness         0.950
+answer_relevancy     0.950
+context_precision    0.917
+context_recall       0.975
+
+--------- k_retrival == 10 -----------
+
+Overall Performance Final Average Scores
+faithfulness         0.975
+answer_relevancy     0.955
+context_precision    0.911
+context_recall       1.000

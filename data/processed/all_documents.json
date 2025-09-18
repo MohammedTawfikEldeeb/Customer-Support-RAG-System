@@ -1,0 +1,1429 @@
+[
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: أمريكانو مثلج (Iced Americano)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 82 جنيه\n- Large: 92 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_001",
+      "category": "Iced Coffee",
+      "item_name": "Iced Americano",
+      "item_name_ar": "أمريكانو مثلج",
+      "prices": "Regular:82, Large:92",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: لاتيه مثلج (Iced Latte)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 98 جنيه\n- Large: 108 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_002",
+      "category": "Iced Coffee",
+      "item_name": "Iced Latte",
+      "item_name_ar": "لاتيه مثلج",
+      "prices": "Regular:98, Large:108",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كابتشينو مثلج (Iced Cappuccino)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 98 جنيه\n- Large: 108 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_003",
+      "category": "Iced Coffee",
+      "item_name": "Iced Cappuccino",
+      "item_name_ar": "كابتشينو مثلج",
+      "prices": "Regular:98, Large:108",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سبانش لاتيه مثلج (Iced Spanish Latte)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 115 جنيه\n- Large: 125 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_004",
+      "category": "Iced Coffee",
+      "item_name": "Iced Spanish Latte",
+      "item_name_ar": "سبانش لاتيه مثلج",
+      "prices": "Regular:115, Large:125",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كراميل ماكياتو مثلج (Iced Caramel Macchiato)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 112 جنيه\n- Large: 122 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_005",
+      "category": "Iced Coffee",
+      "item_name": "Iced Caramel Macchiato",
+      "item_name_ar": "كراميل ماكياتو مثلج",
+      "prices": "Regular:112, Large:122",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: وايت موكا مثلجة (Iced White Mocha)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 112 جنيه\n- Large: 122 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_006",
+      "category": "Iced Coffee",
+      "item_name": "Iced White Mocha",
+      "item_name_ar": "وايت موكا مثلجة",
+      "prices": "Regular:112, Large:122",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: دبل شوت وايت موكا مثلجة (Double Shot Iced White Mocha)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_007",
+      "category": "Iced Coffee",
+      "item_name": "Double Shot Iced White Mocha",
+      "item_name_ar": "دبل شوت وايت موكا مثلجة",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سي سولت فانيلا لاتيه (Sea Salt Vanilla Latte)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 120 جنيه\n- Large: 130 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_008",
+      "category": "Iced Coffee",
+      "item_name": "Sea Salt Vanilla Latte",
+      "item_name_ar": "سي سولت فانيلا لاتيه",
+      "prices": "Regular:120, Large:130",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سي سولت فانيلا لاتيه بالشوفان (Sea Salt Vanilla Oat Latte)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 135 جنيه\n- Large: 145 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_009",
+      "category": "Iced Coffee",
+      "item_name": "Sea Salt Vanilla Oat Latte",
+      "item_name_ar": "سي سولت فانيلا لاتيه بالشوفان",
+      "prices": "Regular:135, Large:145",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: اسبريسو فريدو (Espresso Freddo)\nالفئة: Iced Coffee\nالأسعار:\n- Regular: 93 جنيه\n- Large: 103 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_010",
+      "category": "Iced Coffee",
+      "item_name": "Espresso Freddo",
+      "item_name_ar": "اسبريسو فريدو",
+      "prices": "Regular:93, Large:103",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: اسبريسو (Espresso)\nالفئة: Hot Drinks\nالأسعار:\n- Single: 59 جنيه\n- Double: 69 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_011",
+      "category": "Hot Drinks",
+      "item_name": "Espresso",
+      "item_name_ar": "اسبريسو",
+      "prices": "Single:59, Double:69",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: اسبريسو ماكياتو (Espresso Macchiato)\nالفئة: Hot Drinks\nالأسعار:\n- Single: 64 جنيه\n- Double: 74 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_012",
+      "category": "Hot Drinks",
+      "item_name": "Espresso Macchiato",
+      "item_name_ar": "اسبريسو ماكياتو",
+      "prices": "Single:64, Double:74",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: قهوة تركي (Turkish Coffee)\nالفئة: Hot Drinks\nالأسعار:\n- Single: 61 جنيه\n- Double: 66 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_013",
+      "category": "Hot Drinks",
+      "item_name": "Turkish Coffee",
+      "item_name_ar": "قهوة تركي",
+      "prices": "Single:61, Double:66",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كورتادو (Cortado)\nالفئة: Hot Drinks\nالأسعار:\n- Single: 75 جنيه\n- Double: 85 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_014",
+      "category": "Hot Drinks",
+      "item_name": "Cortado",
+      "item_name_ar": "كورتادو",
+      "prices": "Single:75, Double:85",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: فلات وايت (Flat White)\nالفئة: Hot Drinks\nالأسعار:\n- Single: 88 جنيه\n- Double: 98 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_015",
+      "category": "Hot Drinks",
+      "item_name": "Flat White",
+      "item_name_ar": "فلات وايت",
+      "prices": "Single:88, Double:98",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: أمريكانو (Americano)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 92 جنيه\n- Large: 92 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_016",
+      "category": "Hot Drinks",
+      "item_name": "Americano",
+      "item_name_ar": "أمريكانو",
+      "prices": "Regular:92, Large:92",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كابتشينو (Cappuccino)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 98 جنيه\n- Large: 108 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_017",
+      "category": "Hot Drinks",
+      "item_name": "Cappuccino",
+      "item_name_ar": "كابتشينو",
+      "prices": "Regular:98, Large:108",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: لاتيه (Latte)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 98 جنيه\n- Large: 108 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_018",
+      "category": "Hot Drinks",
+      "item_name": "Latte",
+      "item_name_ar": "لاتيه",
+      "prices": "Regular:98, Large:108",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سبانش لاتيه (Spanish Latte)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 115 جنيه\n- Large: 125 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_019",
+      "category": "Hot Drinks",
+      "item_name": "Spanish Latte",
+      "item_name_ar": "سبانش لاتيه",
+      "prices": "Regular:115, Large:125",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: موكا (Mocha Coffee)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 109 جنيه\n- Large: 119 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_020",
+      "category": "Hot Drinks",
+      "item_name": "Mocha Coffee",
+      "item_name_ar": "موكا",
+      "prices": "Regular:109, Large:119",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كافيه مييل (Café Miel)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 110 جنيه\n- Large: 120 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_021",
+      "category": "Hot Drinks",
+      "item_name": "Café Miel",
+      "item_name_ar": "كافيه مييل",
+      "prices": "Regular:110, Large:120",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كراميل ماكياتو (Caramel Macchiato)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 112 جنيه\n- Large: 122 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_022",
+      "category": "Hot Drinks",
+      "item_name": "Caramel Macchiato",
+      "item_name_ar": "كراميل ماكياتو",
+      "prices": "Regular:112, Large:122",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: وايت موكا (White Mocha)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 112 جنيه\n- Large: 122 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_023",
+      "category": "Hot Drinks",
+      "item_name": "White Mocha",
+      "item_name_ar": "وايت موكا",
+      "prices": "Regular:112, Large:122",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: دبل شوت وايت موكا (Double Shot White Mocha)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_024",
+      "category": "Hot Drinks",
+      "item_name": "Double Shot White Mocha",
+      "item_name_ar": "دبل شوت وايت موكا",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: هوت شوكليت كلاسيك (Classic Hot Chocolate)\nالفئة: Hot Drinks\nالأسعار:\n- Regular: 107 جنيه\n- Large: 117 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_025",
+      "category": "Hot Drinks",
+      "item_name": "Classic Hot Chocolate",
+      "item_name_ar": "هوت شوكليت كلاسيك",
+      "prices": "Regular:107, Large:117",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: لاتيه فرابيه (Latte Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 112 جنيه\n- Large: 122 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_026",
+      "category": "Frappés",
+      "item_name": "Latte Frappé",
+      "item_name_ar": "لاتيه فرابيه",
+      "prices": "Regular:112, Large:122",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: موكا فرابيه (Mocha Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 118 جنيه\n- Large: 128 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_027",
+      "category": "Frappés",
+      "item_name": "Mocha Frappé",
+      "item_name_ar": "موكا فرابيه",
+      "prices": "Regular:118, Large:128",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: وايت موكا فرابيه (White Mocha Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_028",
+      "category": "Frappés",
+      "item_name": "White Mocha Frappé",
+      "item_name_ar": "وايت موكا فرابيه",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: توفي لاتيه فرابيه (Toffee Latte Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 125 جنيه\n- Large: 135 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_029",
+      "category": "Frappés",
+      "item_name": "Toffee Latte Frappé",
+      "item_name_ar": "توفي لاتيه فرابيه",
+      "prices": "Regular:125, Large:135",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: شوكليت كوكيز موكا فرابيه (Chocolate Cookies Mocha Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 125 جنيه\n- Large: 135 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_030",
+      "category": "Frappés",
+      "item_name": "Chocolate Cookies Mocha Frappé",
+      "item_name_ar": "شوكليت كوكيز موكا فرابيه",
+      "prices": "Regular:125, Large:135",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: لوتس لاتيه فرابيه (Lotus Latte Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 134 جنيه\n- Large: 144 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_031",
+      "category": "Frappés",
+      "item_name": "Lotus Latte Frappé",
+      "item_name_ar": "لوتس لاتيه فرابيه",
+      "prices": "Regular:134, Large:144",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: فانيلا فرابيه (Vanilla Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 118 جنيه\n- Large: 128 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_032",
+      "category": "Frappés",
+      "item_name": "Vanilla Frappé",
+      "item_name_ar": "فانيلا فرابيه",
+      "prices": "Regular:118, Large:128",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: لوتس فانيلا فرابيه (Lotus Vanilla Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 134 جنيه\n- Large: 144 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_033",
+      "category": "Frappés",
+      "item_name": "Lotus Vanilla Frappé",
+      "item_name_ar": "لوتس فانيلا فرابيه",
+      "prices": "Regular:134, Large:144",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: فراولة فانيلا فرابيه (Strawberry Vanilla Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_034",
+      "category": "Frappés",
+      "item_name": "Strawberry Vanilla Frappé",
+      "item_name_ar": "فراولة فانيلا فرابيه",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سي سولت فانيلا فرابيه (Sea Salt Vanilla Frappé)\nالفئة: Frappés\nالأسعار:\n- Regular: 120 جنيه\n- Large: 130 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_035",
+      "category": "Frappés",
+      "item_name": "Sea Salt Vanilla Frappé",
+      "item_name_ar": "سي سولت فانيلا فرابيه",
+      "prices": "Regular:120, Large:130",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ماتشا مثلجة (Iced Matcha)\nالفئة: Matcha\nالأسعار:\n- Regular: 118 جنيه\n- Large: 128 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_036",
+      "category": "Matcha",
+      "item_name": "Iced Matcha",
+      "item_name_ar": "ماتشا مثلجة",
+      "prices": "Regular:118, Large:128",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ماتشا مثلجة بجوز الهند والعسل (Iced Coconut Honey Matcha)\nالفئة: Matcha\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_037",
+      "category": "Matcha",
+      "item_name": "Iced Coconut Honey Matcha",
+      "item_name_ar": "ماتشا مثلجة بجوز الهند والعسل",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ماتشا فرابيه (Matcha Frappe)\nالفئة: Matcha\nالأسعار:\n- Regular: 121 جنيه\n- Large: 131 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_038",
+      "category": "Matcha",
+      "item_name": "Matcha Frappe",
+      "item_name_ar": "ماتشا فرابيه",
+      "prices": "Regular:121, Large:131",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: مانجو ماتشا فرابيه (Mango Matcha Frappe)\nالفئة: Matcha\nالأسعار:\n- Regular: 123 جنيه\n- Large: 133 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_039",
+      "category": "Matcha",
+      "item_name": "Mango Matcha Frappe",
+      "item_name_ar": "مانجو ماتشا فرابيه",
+      "prices": "Regular:123, Large:133",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سي سولت فانيلا ماتشا (Sea Salt Vanilla Matcha)\nالفئة: Matcha\nالأسعار:\n- Regular: 125 جنيه\n- Large: 135 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_040",
+      "category": "Matcha",
+      "item_name": "Sea Salt Vanilla Matcha",
+      "item_name_ar": "سي سولت فانيلا ماتشا",
+      "prices": "Regular:125, Large:135",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ماتشا ساخنة (Hot Matcha)\nالفئة: Matcha\nالأسعار:\n- Regular: 118 جنيه\n- Large: 128 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_041",
+      "category": "Matcha",
+      "item_name": "Hot Matcha",
+      "item_name_ar": "ماتشا ساخنة",
+      "prices": "Regular:118, Large:128",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سموثي استوائي (Tropical Smoothie)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 118 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_042",
+      "category": "Refreshers & Shakes",
+      "item_name": "Tropical Smoothie",
+      "item_name_ar": "سموثي استوائي",
+      "prices": "Default:118",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سموثي مانجو (Mango Smoothie)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 118 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_043",
+      "category": "Refreshers & Shakes",
+      "item_name": "Mango Smoothie",
+      "item_name_ar": "سموثي مانجو",
+      "prices": "Default:118",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سموثي ليمون بالنعناع (Lemon Mint Smoothie)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 111 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_044",
+      "category": "Refreshers & Shakes",
+      "item_name": "Lemon Mint Smoothie",
+      "item_name_ar": "سموثي ليمون بالنعناع",
+      "prices": "Default:111",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ميلك شيك (Shakes)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 121 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_045",
+      "category": "Refreshers & Shakes",
+      "item_name": "Shakes",
+      "item_name_ar": "ميلك شيك",
+      "prices": "Default:121",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: عصير مانجو (Mango Juice)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 75 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_046",
+      "category": "Refreshers & Shakes",
+      "item_name": "Mango Juice",
+      "item_name_ar": "عصير مانجو",
+      "prices": "Default:75",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: عصير (Juice)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 70 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_047",
+      "category": "Refreshers & Shakes",
+      "item_name": "Juice",
+      "item_name_ar": "عصير",
+      "prices": "Default:70",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: بينك ليمونيد (Pink Lemonade)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 105 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_048",
+      "category": "Refreshers & Shakes",
+      "item_name": "Pink Lemonade",
+      "item_name_ar": "بينك ليمونيد",
+      "prices": "Default:105",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: شاي مثلج (Iced Tea)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 105 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_049",
+      "category": "Refreshers & Shakes",
+      "item_name": "Iced Tea",
+      "item_name_ar": "شاي مثلج",
+      "prices": "Default:105",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ريد بول موهيتو (Redbull Mojito)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 105 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_050",
+      "category": "Refreshers & Shakes",
+      "item_name": "Redbull Mojito",
+      "item_name_ar": "ريد بول موهيتو",
+      "prices": "Default:105",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ريد بول موهيتو بالفراولة (Strawberry Redbull Mojito)\nالفئة: Refreshers & Shakes\nالأسعار:\n- Default: 116 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_051",
+      "category": "Refreshers & Shakes",
+      "item_name": "Strawberry Redbull Mojito",
+      "item_name_ar": "ريد بول موهيتو بالفراولة",
+      "prices": "Default:116",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كرواسون زبدة (Butter Croissant)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 65 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_052",
+      "category": "Bakery & Snacks",
+      "item_name": "Butter Croissant",
+      "item_name_ar": "كرواسون زبدة",
+      "prices": "Default:65",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كرواسون جبنة (Cheese Croissant)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 75 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_053",
+      "category": "Bakery & Snacks",
+      "item_name": "Cheese Croissant",
+      "item_name_ar": "كرواسون جبنة",
+      "prices": "Default:75",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كرواسون جبنة وتركي (Turkey & Cheese Croissant)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 85 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_054",
+      "category": "Bakery & Snacks",
+      "item_name": "Turkey & Cheese Croissant",
+      "item_name_ar": "كرواسون جبنة وتركي",
+      "prices": "Default:85",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كرواسون نوتيلا (Nutella Croissant)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 85 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_055",
+      "category": "Bakery & Snacks",
+      "item_name": "Nutella Croissant",
+      "item_name_ar": "كرواسون نوتيلا",
+      "prices": "Default:85",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كوكيز (Cookie)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 75 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_056",
+      "category": "Bakery & Snacks",
+      "item_name": "Cookie",
+      "item_name_ar": "كوكيز",
+      "prices": "Default:75",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: دونتس (Doughnuts)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 55 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_057",
+      "category": "Bakery & Snacks",
+      "item_name": "Doughnuts",
+      "item_name_ar": "دونتس",
+      "prices": "Default:55",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سينابون رول (Cinnamon Roll)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 55 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_058",
+      "category": "Bakery & Snacks",
+      "item_name": "Cinnamon Roll",
+      "item_name_ar": "سينابون رول",
+      "prices": "Default:55",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: براوني برقائق الشوكولاتة (Chocolate Chip Brownie)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 70 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_059",
+      "category": "Bakery & Snacks",
+      "item_name": "Chocolate Chip Brownie",
+      "item_name_ar": "براوني برقائق الشوكولاتة",
+      "prices": "Default:70",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كوب ميني براونيز (Mini Brownies Cup)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 75 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_060",
+      "category": "Bakery & Snacks",
+      "item_name": "Mini Brownies Cup",
+      "item_name_ar": "كوب ميني براونيز",
+      "prices": "Default:75",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كوب ميني كوكيز بالزنجبيل (Mini Ginger Cookies Cup)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 65 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_061",
+      "category": "Bakery & Snacks",
+      "item_name": "Mini Ginger Cookies Cup",
+      "item_name_ar": "كوب ميني كوكيز بالزنجبيل",
+      "prices": "Default:65",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: مافن (Muffin)\nالفئة: Bakery & Snacks\nالأسعار:\n- Default: 70 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_062",
+      "category": "Bakery & Snacks",
+      "item_name": "Muffin",
+      "item_name_ar": "مافن",
+      "prices": "Default:70",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: فادج الشوكولاتة الداكنة (Dark Chocolate Fudge)\nالفئة: Desserts\nالأسعار:\n- Default: 115 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_063",
+      "category": "Desserts",
+      "item_name": "Dark Chocolate Fudge",
+      "item_name_ar": "فادج الشوكولاتة الداكنة",
+      "prices": "Default:115",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: تشيز كيك (Cheesecake)\nالفئة: Desserts\nالأسعار:\n- Default: 115 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_064",
+      "category": "Desserts",
+      "item_name": "Cheesecake",
+      "item_name_ar": "تشيز كيك",
+      "prices": "Default:115",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: كيكة الجزر (Carrot Cake)\nالفئة: Desserts\nالأسعار:\n- Default: 115 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_065",
+      "category": "Desserts",
+      "item_name": "Carrot Cake",
+      "item_name_ar": "كيكة الجزر",
+      "prices": "Default:115",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: مولتن كيك نوتيلا (Nutella Molten Cake)\nالفئة: Desserts\nالأسعار:\n- Default: 140 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_066",
+      "category": "Desserts",
+      "item_name": "Nutella Molten Cake",
+      "item_name_ar": "مولتن كيك نوتيلا",
+      "prices": "Default:140",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: تيراميسو (Tiramisu)\nالفئة: Desserts\nالأسعار:\n- Default: 115 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_067",
+      "category": "Desserts",
+      "item_name": "Tiramisu",
+      "item_name_ar": "تيراميسو",
+      "prices": "Default:115",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: براوني بالكراميل المملح (Salted Caramel Brownie)\nالفئة: Desserts\nالأسعار:\n- Default: 100 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_068",
+      "category": "Desserts",
+      "item_name": "Salted Caramel Brownie",
+      "item_name_ar": "براوني بالكراميل المملح",
+      "prices": "Default:100",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش تركي وإيمنتال (Turkey & Emmental)\nالفئة: Sandwiches\nالأسعار:\n- Default: 155 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_069",
+      "category": "Sandwiches",
+      "item_name": "Turkey & Emmental",
+      "item_name_ar": "ساندوتش تركي وإيمنتال",
+      "prices": "Default:155",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش روست بيف وشيدر (Roast Beef & Cheddar)\nالفئة: Sandwiches\nالأسعار:\n- Default: 155 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_070",
+      "category": "Sandwiches",
+      "item_name": "Roast Beef & Cheddar",
+      "item_name_ar": "ساندوتش روست بيف وشيدر",
+      "prices": "Default:155",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش تونة باجيت (Tuna Baguette)\nالفئة: Sandwiches\nالأسعار:\n- Default: 145 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_071",
+      "category": "Sandwiches",
+      "item_name": "Tuna Baguette",
+      "item_name_ar": "ساندوتش تونة باجيت",
+      "prices": "Default:145",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش بيف بريسكت بالديجون (Dijon Beef Brisket)\nالفئة: Sandwiches\nالأسعار:\n- Default: 150 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_072",
+      "category": "Sandwiches",
+      "item_name": "Dijon Beef Brisket",
+      "item_name_ar": "ساندوتش بيف بريسكت بالديجون",
+      "prices": "Default:150",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش دجاج سريراتشا (Sriracha Chicken)\nالفئة: Sandwiches\nالأسعار:\n- Default: 155 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_073",
+      "category": "Sandwiches",
+      "item_name": "Sriracha Chicken",
+      "item_name_ar": "ساندوتش دجاج سريراتشا",
+      "prices": "Default:155",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش حلوم وطماطم مجففة (Halloumi & Sun-dried Tomatoes)\nالفئة: Sandwiches\nالأسعار:\n- Default: 150 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_074",
+      "category": "Sandwiches",
+      "item_name": "Halloumi & Sun-dried Tomatoes",
+      "item_name_ar": "ساندوتش حلوم وطماطم مجففة",
+      "prices": "Default:150",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش روست تركي ديلايت (Roast Turkey Delight)\nالفئة: Sandwiches\nالأسعار:\n- Default: 135 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_075",
+      "category": "Sandwiches",
+      "item_name": "Roast Turkey Delight",
+      "item_name_ar": "ساندوتش روست تركي ديلايت",
+      "prices": "Default:135",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش روست رانش ميلت (Roast Ranch Melt)\nالفئة: Sandwiches\nالأسعار:\n- Default: 165 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_076",
+      "category": "Sandwiches",
+      "item_name": "Roast Ranch Melt",
+      "item_name_ar": "ساندوتش روست رانش ميلت",
+      "prices": "Default:165",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: ساندوتش روست تركي رويال (Roast Turkey Royale)\nالفئة: Sandwiches\nالأسعار:\n- Default: 195 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_077",
+      "category": "Sandwiches",
+      "item_name": "Roast Turkey Royale",
+      "item_name_ar": "ساندوتش روست تركي رويال",
+      "prices": "Default:195",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سلطة سيزر بالدجاج (Chicken Caesar)\nالفئة: Salads\nالأسعار:\n- Default: 155 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_078",
+      "category": "Salads",
+      "item_name": "Chicken Caesar",
+      "item_name_ar": "سلطة سيزر بالدجاج",
+      "prices": "Default:155",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سلطة كينوا بالدجاج (Chicken Quinoa)\nالفئة: Salads\nالأسعار:\n- Default: 155 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_079",
+      "category": "Salads",
+      "item_name": "Chicken Quinoa",
+      "item_name_ar": "سلطة كينوا بالدجاج",
+      "prices": "Default:155",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سلطة يونانية (Greek Salad)\nالفئة: Salads\nالأسعار:\n- Default: 130 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_080",
+      "category": "Salads",
+      "item_name": "Greek Salad",
+      "item_name_ar": "سلطة يونانية",
+      "prices": "Default:130",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Menu Item]\nاسم الصنف: سلطة الفاصوليا والمكرونة (Beans & Pasta)\nالفئة: Salads\nالأسعار:\n- Default: 135 جنيه",
+    "metadata": {
+      "source": "menu",
+      "item_id": "menu_081",
+      "category": "Salads",
+      "item_name": "Beans & Pasta",
+      "item_name_ar": "سلطة الفاصوليا والمكرونة",
+      "prices": "Default:135",
+      "currency": "EGP",
+      "lang": "ar"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع وسط البلد\nالعنوان: 31 محمد محمود امام الجامعة الامريكية\nرقم التليفون: 01201200061\nمواعيد العمل: يوميا 06:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_001",
+      "branch_name": "وسط البلد",
+      "area": "وسط البلد",
+      "address": "31 محمد محمود امام الجامعة الامريكية",
+      "phone_number": "01201200061",
+      "working_hours": "يوميا 06:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مصر الجديدة - أمام نادى الشمس\nالعنوان: 55 شارع عبد الحميد بدوى ، امام نادى الشمس\nرقم التليفون: 01206311118\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_002",
+      "branch_name": "مصر الجديدة - أمام نادى الشمس",
+      "area": "مصر الجديدة",
+      "address": "55 شارع عبد الحميد بدوى ، امام نادى الشمس",
+      "phone_number": "01206311118",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مصر الجديدة - خلف الكلية الحربية\nالعنوان: 126 شارع عثمان بن عفان ، متفرع من ميدان تريومف، خلف الكلية الحربية\nرقم التليفون: 01206440205\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_003",
+      "branch_name": "مصر الجديدة - خلف الكلية الحربية",
+      "area": "مصر الجديدة",
+      "address": "126 شارع عثمان بن عفان ، متفرع من ميدان تريومف، خلف الكلية الحربية",
+      "phone_number": "01206440205",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مصر الجديدة - الميرغنى\nالعنوان: 87 شارع الميرغنى\nرقم التليفون: 01206311119\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_004",
+      "branch_name": "مصر الجديدة - الميرغنى",
+      "area": "مصر الجديدة",
+      "address": "87 شارع الميرغنى",
+      "phone_number": "01206311119",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مصر الجديدة - الكوربة\nالعنوان: 4 شارع ابراهيم، الكوربة\nرقم التليفون: 01206440601\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_005",
+      "branch_name": "مصر الجديدة - الكوربة",
+      "area": "مصر الجديدة",
+      "address": "4 شارع ابراهيم، الكوربة",
+      "phone_number": "01206440601",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع صلاح سالم\nالعنوان: محطة بنزين التعاون، 4 شارع صلاح سالم، أمام عمارات العبور\nرقم التليفون: غير متوفر\nمواعيد العمل: يوميا 05:00-20:45",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_006",
+      "branch_name": "صلاح سالم",
+      "area": "صلاح سالم",
+      "address": "محطة بنزين التعاون، 4 شارع صلاح سالم، أمام عمارات العبور",
+      "phone_number": "",
+      "working_hours": "يوميا 05:00-20:45"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مدينة نصر - سيتي ستارز\nالعنوان: سيتي ستارز، شارع عمر بن الخطاب، المرحلة 1، الطابق 2\nرقم التليفون: 01206440402\nمواعيد العمل: يوميا 07:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_007",
+      "branch_name": "مدينة نصر - سيتي ستارز",
+      "area": "مدينة نصر",
+      "address": "سيتي ستارز، شارع عمر بن الخطاب، المرحلة 1، الطابق 2",
+      "phone_number": "01206440402",
+      "working_hours": "يوميا 07:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مدينة نصر - سيتى لايت\nالعنوان: سيتى لايت، 1 شارع مكرم عبيد\nرقم التليفون: 01206312631\nمواعيد العمل: يوميا 05:00-20:30",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_008",
+      "branch_name": "مدينة نصر - سيتى لايت",
+      "area": "مدينة نصر",
+      "address": "سيتى لايت، 1 شارع مكرم عبيد",
+      "phone_number": "01206312631",
+      "working_hours": "يوميا 05:00-20:30"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مدينة نصر - عباس العقاد\nالعنوان: 39 شارع عباس العقاد\nرقم التليفون: 01206440701\nمواعيد العمل: يوميا 05:00-20:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_009",
+      "branch_name": "مدينة نصر - عباس العقاد",
+      "area": "مدينة نصر",
+      "address": "39 شارع عباس العقاد",
+      "phone_number": "01206440701",
+      "working_hours": "يوميا 05:00-20:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع هرم وفيصل\nالعنوان: 322 شارع الهرم\nرقم التليفون: 01281554485 - 01211788482\nمواعيد العمل: يوميا 08:00-20:45",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_010",
+      "branch_name": "هرم وفيصل",
+      "area": "هرم وفيصل",
+      "address": "322 شارع الهرم",
+      "phone_number": "01281554485 - 01211788482",
+      "working_hours": "يوميا 08:00-20:45"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع المهندسين\nالعنوان: 2 شارع وادى النيل ، متفرع من جامعة الدول العربية\nرقم التليفون: 01288944985\nمواعيد العمل: يوميا 05:00-20:30",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_011",
+      "branch_name": "المهندسين",
+      "area": "المهندسين",
+      "address": "2 شارع وادى النيل ، متفرع من جامعة الدول العربية",
+      "phone_number": "01288944985",
+      "working_hours": "يوميا 05:00-20:30"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مساكن شيراتون\nالعنوان: 9 شارع الشهيد سيد زكريا خليل\nرقم التليفون: 01205846846\nمواعيد العمل: يوميا 06:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_012",
+      "branch_name": "مساكن شيراتون",
+      "area": "مساكن شيراتون",
+      "address": "9 شارع الشهيد سيد زكريا خليل",
+      "phone_number": "01205846846",
+      "working_hours": "يوميا 06:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع المقطم\nالعنوان: شارع 9 ، ميدان النافورة\nرقم التليفون: غير متوفر\nمواعيد العمل: يوميا 09:00-20:30",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_013",
+      "branch_name": "المقطم",
+      "area": "المقطم",
+      "address": "شارع 9 ، ميدان النافورة",
+      "phone_number": "",
+      "working_hours": "يوميا 09:00-20:30"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع الدقي - مصدق\nالعنوان: 24 شارع مصدق، الدقي\nرقم التليفون: 01200179975\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_014",
+      "branch_name": "الدقي - مصدق",
+      "area": "الدقي",
+      "address": "24 شارع مصدق، الدقي",
+      "phone_number": "01200179975",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع الدقي - ميدان المساحة\nالعنوان: 22 شارع رفاعه، ميدان المساحة داخل فندق سفير\nرقم التليفون: 01285566297\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_015",
+      "branch_name": "الدقي - ميدان المساحة",
+      "area": "الدقي",
+      "address": "22 شارع رفاعه، ميدان المساحة داخل فندق سفير",
+      "phone_number": "01285566297",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع طريق القاهرة اسكندرية الصحراوي\nالعنوان: محطة بنزين طاقة\nرقم التليفون: غير متوفر\nمواعيد العمل: يوميا 05:00-15:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_016",
+      "branch_name": "طريق القاهرة اسكندرية الصحراوي",
+      "area": "طريق القاهرة اسكندرية الصحراوي",
+      "address": "محطة بنزين طاقة",
+      "phone_number": "",
+      "working_hours": "يوميا 05:00-15:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع شيخ زايد - هايبر وان\nالعنوان: هايبر وان، مدينة الشيخ زايد، مدخل رقم 1\nرقم التليفون: 01288400633\nمواعيد العمل: يوميا 06:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_017",
+      "branch_name": "شيخ زايد - هايبر وان",
+      "area": "شيخ زايد",
+      "address": "هايبر وان، مدينة الشيخ زايد، مدخل رقم 1",
+      "phone_number": "01288400633",
+      "working_hours": "يوميا 06:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع السادس من أكتوبر - غرب سوميد\nالعنوان: شارع النباتات، محطة بنزين طاقة، غرب سوميد\nرقم التليفون: 01206440401\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_018",
+      "branch_name": "السادس من أكتوبر - غرب سوميد",
+      "area": "السادس من أكتوبر",
+      "address": "شارع النباتات، محطة بنزين طاقة، غرب سوميد",
+      "phone_number": "01206440401",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع السادس من أكتوبر - نادى وادى دجلة الواحات\nالعنوان: نادى وادى دجلة الواحات\nرقم التليفون: غير متوفر\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_019",
+      "branch_name": "السادس من أكتوبر - نادى وادى دجلة الواحات",
+      "area": "السادس من أكتوبر",
+      "address": "نادى وادى دجلة الواحات",
+      "phone_number": "",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع السادس من أكتوبر - نادى وادى دجلة\nالعنوان: نادى وادى دجلة اكتوبر غرب سوميد ، مدينة 6 أكتوبر\nرقم التليفون: 01206440401\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_020",
+      "branch_name": "السادس من أكتوبر - نادى وادى دجلة",
+      "area": "السادس من أكتوبر",
+      "address": "نادى وادى دجلة اكتوبر غرب سوميد ، مدينة 6 أكتوبر",
+      "phone_number": "01206440401",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع السادس من أكتوبر - فاميلي مول\nالعنوان: فاميلي مول\nرقم التليفون: 01068809211\nمواعيد العمل: يوميا 06:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_021",
+      "branch_name": "السادس من أكتوبر - فاميلي مول",
+      "area": "السادس من أكتوبر",
+      "address": "فاميلي مول",
+      "phone_number": "01068809211",
+      "working_hours": "يوميا 06:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع حدائق الأهرام\nالعنوان: مول الاهرام بوابة 2 امام نادي حدائق الاهرام\nرقم التليفون: 01220050494\nمواعيد العمل: يوميا 09:00-20:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_022",
+      "branch_name": "حدائق الأهرام",
+      "area": "حدائق الأهرام",
+      "address": "مول الاهرام بوابة 2 امام نادي حدائق الاهرام",
+      "phone_number": "01220050494",
+      "working_hours": "يوميا 09:00-20:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع مدينة الرحاب\nالعنوان: الرحاب مول ذا يارد\nرقم التليفون: 01278354907 - 01200449248\nمواعيد العمل: يوميا 07:00-20:30",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_023",
+      "branch_name": "مدينة الرحاب",
+      "area": "مدينة الرحاب",
+      "address": "الرحاب مول ذا يارد",
+      "phone_number": "01278354907 - 01200449248",
+      "working_hours": "يوميا 07:00-20:30"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع القاهرة الجديدة - كايرو بيزنس بلازا\nالعنوان: كايرو بيزنس بلازا ، شارع التسعين ، القاهرة الجديدة 1\nرقم التليفون: 01129126093 - 01147461174\nمواعيد العمل: يوميا 07:00-14:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_024",
+      "branch_name": "القاهرة الجديدة - كايرو بيزنس بلازا",
+      "area": "القاهرة الجديدة",
+      "address": "كايرو بيزنس بلازا ، شارع التسعين ، القاهرة الجديدة 1",
+      "phone_number": "01129126093 - 01147461174",
+      "working_hours": "يوميا 07:00-14:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع القاهرة الجديدة - شارع التسعين\nالعنوان: داخل محطة بنزين توتل شارع التسعين بجوار المستشفي الجوي\nرقم التليفون: 01288918007\nمواعيد العمل: يوميا 07:00-20:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_025",
+      "branch_name": "القاهرة الجديدة - شارع التسعين",
+      "area": "القاهرة الجديدة",
+      "address": "داخل محطة بنزين توتل شارع التسعين بجوار المستشفي الجوي",
+      "phone_number": "01288918007",
+      "working_hours": "يوميا 07:00-20:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع المعادي - شارع 9\nالعنوان: 90 شارع 9\nرقم التليفون: 01206440403\nمواعيد العمل: يوميا 05:00-21:00",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_026",
+      "branch_name": "المعادي - شارع 9",
+      "area": "المعادي",
+      "address": "90 شارع 9",
+      "phone_number": "01206440403",
+      "working_hours": "يوميا 05:00-21:00"
+    }
+  },
+  {
+    "page_content": "[Branch]\nاسم الفرع: cilantro فرع المعادي - شارع النصر\nالعنوان: 7/2 شارع النصر\nرقم التليفون: 01276666318\nمواعيد العمل: يوميا 06:00-20:45",
+    "metadata": {
+      "source": "branches",
+      "branch_id": "branch_027",
+      "branch_name": "المعادي - شارع النصر",
+      "area": "المعادي",
+      "address": "7/2 شارع النصر",
+      "phone_number": "01276666318",
+      "working_hours": "يوميا 06:00-20:45"
+    }
+  },
+  {
+    "page_content": "[Note]\nالموضوع: coffee_addons\nالمحتوى: يمكن إضافة 10 جنيهات للحصول على خلطة البلاتينم الخاصة بنا",
+    "metadata": {
+      "source": "notes",
+      "note_id": "note_001",
+      "topic": "coffee_addons",
+      "lang": "ar",
+      "tags": "إضافات, قهوة, سعر, بلاتينم بلند"
+    }
+  },
+  {
+    "page_content": "[Note]\nالموضوع: coffee_options\nالمحتوى: يمكن تقديم أي نوع قهوة كمنزوعة الكافيين (Decaf)",
+    "metadata": {
+      "source": "notes",
+      "note_id": "note_002",
+      "topic": "coffee_options",
+      "lang": "ar",
+      "tags": "خيارات, قهوة, بدون كافيين, ديكاف"
+    }
+  },
+  {
+    "page_content": "[Note]\nالموضوع: milk_addons\nالمحتوى: يمكن إضافة حليب غير حيواني لأي مشروب مقابل 38 جنيهاً (حليب اللوز - حليب الشوفان - حليب جوز الهند)",
+    "metadata": {
+      "source": "notes",
+      "note_id": "note_003",
+      "topic": "milk_addons",
+      "lang": "ar",
+      "tags": "إضافات, حليب نباتي, سعر, لوز, شوفان, جوز الهند"
+    }
+  },
+  {
+    "page_content": "[Note]\nالموضوع: pricing_info\nالمحتوى: جميع الأسعار شاملة ضريبة القيمة المضافة",
+    "metadata": {
+      "source": "notes",
+      "note_id": "note_004",
+      "topic": "pricing_info",
+      "lang": "ar",
+      "tags": "أسعار, ضريبة, معلومات"
+    }
+  },
+  {
+    "page_content": "[Note]\nالموضوع: salad_addons\nالمحتوى: للحصول على كوب إضافي من صوص زيت الزيتون والزعتر مقابل 25 جنيهاً",
+    "metadata": {
+      "source": "notes",
+      "note_id": "note_005",
+      "topic": "salad_addons",
+      "lang": "ar",
+      "tags": "إضافات, سلطة, سعر, صوص"
+    }
+  }
+]

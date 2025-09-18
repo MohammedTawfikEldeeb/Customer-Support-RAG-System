@@ -1,0 +1,27 @@
+[
+    {
+      "topic": "coffee_addons",
+      "note_en": "Add 10 EGP for Our Platinum Blend",
+      "note_ar": "يمكن إضافة 10 جنيهات للحصول على خلطة البلاتينم الخاصة بنا"
+    },
+    {
+      "topic": "coffee_options",
+      "note_en": "Any Coffee can be served Decaf",
+      "note_ar": "يمكن تقديم أي نوع قهوة كمنزوعة الكافيين (Decaf)"
+    },
+    {
+      "topic": "milk_addons",
+      "note_en": "Add non-dairy milk to any drink: 38 EGP (Almond Milk - Oat Milk - Coconut Milk)",
+      "note_ar": "يمكن إضافة حليب غير حيواني لأي مشروب مقابل 38 جنيهاً (حليب اللوز - حليب الشوفان - حليب جوز الهند)"
+    },
+    {
+      "topic": "pricing_info",
+      "note_en": "All Prices include VAT",
+      "note_ar": "جميع الأسعار شاملة ضريبة القيمة المضافة"
+    },
+    {
+      "topic": "salad_addons",
+      "note_en": "For an Extra Olive Oil & Thyme Dressing Cup 25 EGP",
+      "note_ar": "للحصول على كوب إضافي من صوص زيت الزيتون والزعتر مقابل 25 جنيهاً"
+    }
+  ]

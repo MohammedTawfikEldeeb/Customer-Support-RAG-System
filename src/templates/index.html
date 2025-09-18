@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cilantro Cafe - Customer Support</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Full-page background element -->
+    <div class="page-bg"></div>
+
+    <div class="chat-container">
+        <header class="chat-header">
+            <h1>Cilantro Cafe Assistant</h1>
+            <p>Your friendly guide to our menu and branches</p>
+        </header>
+
+        <!-- Where messages will appear -->
+        <div id="chat-box" class="chat-box">
+            <div class="msg bot intro">
+                أهلاً بك في سيلنترو! كيف يمكنني مساعدتك اليوم؟
+            </div>
+        </div>
+
+        <!-- The typing indicator will be injected here by JS -->
+        <div id="typing-indicator" class="typing-indicator" style="display: none;">
+            <span></span><span></span><span></span>
+        </div>
+        
+        <!-- Input form -->
+        <form id="chat-form" class="chat-input">
+            <input type="text" id="user-input" placeholder="اسأل عن المنيو، الفروع، أو أي شيء آخر..." autocomplete="off">
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const chatForm = document.getElementById('chat-form');
+        const userInput = document.getElementById('user-input');
+        const typingIndicator = document.getElementById('typing-indicator');
+
+        // Function to scroll to the bottom of the chat box
+        function scrollToBottom() {
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        // Function to add a message to the chat box
+        function addMessage(sender, text) {
+            const msgDiv = document.createElement('div');
+            msgDiv.classList.add('msg', sender);
+            msgDiv.textContent = text;
+            chatBox.appendChild(msgDiv);
+            scrollToBottom();
+            return msgDiv;
+        }
+
+        // Handle form submission
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const question = userInput.value.trim();
+            if (!question) return;
+
+            addMessage('user', question);
+            userInput.value = ''; // Clear the input field
+
+            // Show typing indicator
+            typingIndicator.style.display = 'flex';
+            scrollToBottom();
+
+            try {
+                // Send question to the FastAPI backend
+                const response = await fetch('/query', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question: question })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                // Hide typing indicator
+                typingIndicator.style.display = 'none';
+                
+                // Add the bot's response with an animation
+                const botMsg = addMessage('bot', data.message);
+                botMsg.classList.add('fade-in');
+
+            } catch (error) {
+                console.error("Error fetching response:", error);
+                typingIndicator.style.display = 'none';
+                addMessage('bot', 'Sorry, something went wrong. Please try again.');
+            }
+        });
+        
+        // Initial scroll to bottom
+        scrollToBottom();
+    </script>
+</body>
+</html>
