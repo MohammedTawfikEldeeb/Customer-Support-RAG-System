@@ -96,6 +96,18 @@ LANGCHAIN_PROJECT=customer-support-rag
 
 Then run with `uv run python src/app.py` or `python src/app.py`.
 
+#### Run locally with Uvicorn (dev)
+
+Hot-reload server on port 8000:
+
+```bash
+# Using uv
+uv run uvicorn src.app:app --reload --host 0.0.0.0 --port 8000
+
+# Or plain
+uvicorn src.app:app --reload --host 0.0.0.0 --port 8000
+```
+
 #### Enable LangSmith Tracing
 With the env vars above set, LangChain will automatically send traces. You can also set them temporarily for a single run:
 
@@ -104,6 +116,23 @@ export LANGCHAIN_TRACING_V2=true
 export LANGCHAIN_API_KEY=...
 export LANGCHAIN_PROJECT=customer-support-rag
 uv run python src/app.py
+```
+
+---
+
+### Docker
+This repo includes a production-ready `Dockerfile` (Gunicorn + Uvicorn worker binding to port 8080).
+
+Build the image:
+
+```bash
+docker build -t cilantro-rag-app .
+```
+
+Run the container locally (map host 8000 → container 8080):
+
+```bash
+docker run -p 8000:8080 cilantro-rag-app
 ```
 
 ---
