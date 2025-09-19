@@ -2,7 +2,7 @@
 
 Delightfully fast, production-ready Retrieval-Augmented Generation for cafe-style customer support. Built with a clean architecture for ingestion, processing, retrieval, and generation — and a pragmatic memory strategy that preserves answer quality.
 
-### Highlights for Recruiters
+### Highlights
 - Consistently accurate answers with natural multi-turn memory.
 - Split responsibilities into two assistants — one for conversational context, one for factual retrieval — to avoid quality regressions when adding memory.
 - Improving `k_retrieval` from 3 to 10 increased context recall from 0.975 → 1.000 while maintaining high faithfulness (0.975) and answer relevancy (0.955). See `src/evaluation/observation.txt`.
