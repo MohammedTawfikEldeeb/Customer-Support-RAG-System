@@ -12,6 +12,7 @@ PROCESSED_DATA_DIR = ROOT_DIR / "data" / "processed"
 INDEX_NAME = "customer-support-rag-system"
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+MODEL_NAME = "gemini-1.5-flash"
 
 PROMPT_TEMPLATE = """
 أنت مساعد متخصص في الإجابة على أسئلة الزبائن الخاصة بمنيو وفروع مقهى سيلنترو.
@@ -36,3 +37,14 @@ CONTEXTUALIZE_Q_PROMPT_TEMPLATE = """Given a chat history and the latest user qu
 which might reference context in the chat history, formulate a standalone question \
 which can be understood without the chat history. Do NOT answer the question, \
 just reformulate it if needed and otherwise return it as is."""
+
+
+def ensure_env() -> None:
+    missing = []
+    if not PINECONE_API_KEY:
+        missing.append("PINECONE_API_KEY")
+    if not GOOGLE_API_KEY:
+        missing.append("GOOGLE_API_KEY")
+    if missing:
+        joined = ", ".join(missing)
+        raise RuntimeError(f"Missing required environment variables: {joined}")

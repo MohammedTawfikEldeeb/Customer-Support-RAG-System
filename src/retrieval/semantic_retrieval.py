@@ -1,14 +1,18 @@
-from src.vectorstore.pinecone import init_vectorstore , load_documents
+from src.vectorstore.pinecone import connect_vectorstore
 from src import config
 from src.vectorstore.embeddings import load_embeddings
 
 
-documents = load_documents(config.PROCESSED_DATA_DIR / "all_documents.json")
-embeddings = load_embeddings()
+_embeddings = None
+_retriever = None
 
-def init_retriever():
-    vectorstore = init_vectorstore(config.INDEX_NAME, documents, embeddings)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
-    return retriever
+def get_retriever():
+    global _embeddings, _retriever
+    if _retriever is None:
+        if _embeddings is None:
+            _embeddings = load_embeddings()
+        vectorstore = connect_vectorstore(config.INDEX_NAME, _embeddings)
+        _retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
+    return _retriever
 
 
